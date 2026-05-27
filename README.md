@@ -117,6 +117,20 @@ The main dataset contains encoded single-response survey variables related to de
 
 ---
 
+## Libraries Used
+
+The project was developed in Python using the following libraries:
+
+- **Pandas**: For data manipulation, cleaning, and tabular analysis.
+- **NumPy**: For numerical computing and array operations.
+- **Matplotlib**: For creating static visualizations.
+- **Seaborn**: For statistical data visualization.
+- **Scikit-learn**: For preprocessing, machine learning modeling, pipelines, and model evaluation.
+- **Jupyter Notebook**: For developing and documenting the full analysis workflow.
+
+These libraries were used for data loading, data cleaning, exploratory data analysis, visualization, machine learning modeling, and model evaluation.
+
+
 ## Business Questions
 
 This project answers the following questions:
@@ -132,4 +146,13 @@ This project answers the following questions:
 
 A non-technical blog post was created to communicate the main findings from this project.
 
-[Read the blog post](https://github.com/pepeluseo/stackoverflow-ai-sentiment-analysis/blob/main/BLOG.md)
+[Read the blog post](https://dev.to/pplu_seo_6d855050ae55e3ae/confian-realmente-los-desarrolladores-en-la-inteligencia-artificial-5heg)
+
+
+## Acknowledgments
+
+Special thanks to:
+
+- **Stack Overflow** for publishing the Developer Survey 2024 dataset.
+- **TidyTuesday** for curating and preparing an accessible version of the Stack Overflow Developer Survey dataset.
+- **Udacity** for providing the project framework, rubric, and learning path that guided this analysis.

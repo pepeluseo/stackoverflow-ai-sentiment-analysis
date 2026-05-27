@@ -22,4 +22,12 @@ Estos resultados indican que el modelo identifica bastante bien el sentimiento p
 
 La conclusión principal es clara: **la comunidad desarrolladora muestra una señal positiva hacia la IA, pero esa aceptación depende fuertemente de la confianza**. Usar IA no significa necesariamente confiar plenamente en ella; la percepción sobre su precisión, su capacidad para resolver tareas complejas y su impacto laboral siguen siendo factores decisivos.
 
+## ¿Qué podemos aprender de esto? Recomendaciones
+
+1. **Para creadores de herramientas de IA:** la confianza debe ser una prioridad. No basta con generar respuestas rápidas; las herramientas deben explicar mejor sus sugerencias, reducir errores y facilitar que el desarrollador entienda por qué una recomendación es válida.
+
+2. **Para equipos de desarrollo:** el código generado por IA debería revisarse sistemáticamente antes de integrarse en producción. La IA puede acelerar tareas, pero la responsabilidad final debe seguir estando en procesos de revisión, pruebas y validación humana.
+
+3. **Para empresas que adoptan IA:** la formación es clave. Los equipos necesitan aprender cuándo confiar en una herramienta de IA, cuándo cuestionarla y cómo combinarla con buenas prácticas de ingeniería de software.
+
 En resumen, la IA ya no es solo una promesa futura para los desarrolladores: es una herramienta presente. Pero su adopción real dependerá de algo más humano que técnico: la confianza.
